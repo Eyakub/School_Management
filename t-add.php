@@ -1,4 +1,6 @@
-
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -135,7 +137,7 @@
    </div>
 
 <?php
-session_start();
+
 require_once('db_conection.php');
  @$_SESSION['admin_name'];
 error_reporting(1);
