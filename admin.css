@@ -1,0 +1,46 @@
+/* all the for before add any aditonal page style thin is for admin.php*/
+body{
+	background-image: url("img/background.png");
+}
+ul.display-none{
+	display: none;
+}
+div.panel-body:hover ul.display-none{
+	display: block;
+}
+div.panel{
+	min-width: 250px;
+	max-width: 300px;
+	overflow: auto;
+	height: 750px;
+
+}
+div.panel-heading{
+	border: 1px solid #DFDFDF;
+	margin-bottom: -10px;
+	margin-top: -10px;
+}
+.edit-mainc{
+	
+	
+}
+.pull-right{
+	min-width: 900px;
+	max-width: 1200px;
+	height: 750px;
+	border:1px solid #DFDFDF;
+	border-radius: 3px;
+	background-color: #FFFFFF;
+
+}
+.admin-section{
+	margin-top: 50px;
+}
+/*admin.php ends*/
+#sel1{
+	width: 500px;
+}
+.success-edit{
+	width: 700px;
+	margin-top: 15px;
+}
