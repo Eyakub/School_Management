@@ -150,7 +150,7 @@ if(!$a){
 
 <?php  
     //include "config.php";
-    include "db_conection.php";
+  
    
     ///$id = $_GET['id'];
     $query = "SELECT * FROM c_teacher WHERE id=$id";
@@ -194,7 +194,7 @@ if (!$sql && !$admin) {
    
 } else {
       echo '<script type="text/javascript">alert("Adding successful.")</script>';
-    echo "<script>window.open('t-add.php?','_self')</script>";
+    //echo "<script>window.open('t-add.php?','_self')</script>";
 }
 
 if(isset($error)){

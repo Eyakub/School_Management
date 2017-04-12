@@ -45,7 +45,7 @@
 					<ul class="li_a">
 						<li><a href="admin_login.php" target="_blank">Admin</a></li>
 						<li><a href="login.php" target="_blank">Student</a></li>
-						<li> <a href="#">Registration</a></li>
+						<li> <a href="reg.php" target="_blank">Registration</a></li>
 					</ul>
 				</li>
 			</ul>

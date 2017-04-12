@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible">
-  <title></title>
+  <title>Registration</title>
   <!--bootstrap css-->
   <link rel="stylesheet" type="text/css" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
   <!-- bootstrap css ends-->
